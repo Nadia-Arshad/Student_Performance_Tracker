@@ -17,8 +17,8 @@ This is a program that takes the names and scores of three subjects (Math, Engli
 - If using Jupyter or Colab, simply run the cells in sequence.
 
 ## Installation:
-1. Clone the repository using `git clone https://github.com/your_username/Student_Performance_Tracker.git`
-2. Open the notebook in Jupyter or run the Python script directly.
+ - Clone the repository using `git clone https://github.com/your_username/Student_Performance_Tracker.git`
+ - Open the notebook in Jupyter or run the Python script directly.
 
 
 
